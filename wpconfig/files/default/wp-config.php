@@ -16,8 +16,8 @@
 
 define('WP_REDIS_HOST', 'meec.jpsdi1.0001.sae1.cache.amazonaws.com');
  
-define('WP_HOME', 'http://MEEC-57971342.sa-east-1.elb.amazonaws.com');
-define('WP_SITEURL', 'http://MEEC-57971342.sa-east-1.elb.amazonaws.com');
+define('WP_HOME', 'http://meec-710127031.sa-east-1.elb.amazonaws.com');
+define('WP_SITEURL', 'http://meec-710127031.sa-east-1.elb.amazonaws.com');
 
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
@@ -47,14 +47,14 @@ define('DB_COLLATE', '');
  *
  * @since 2.6.0
  */
-define('AUTH_KEY',         '`McDo+5]!.F/#3[W/9]OfQz!(XS-aXuIPv<B ejY=VfW9Gax t*5SeknA$K8<|[i');
-define('SECURE_AUTH_KEY',  'v==V(Vy^^zn:pq5!d gKJ|ttkHX5cI_7oUgjI{@,*C4O|2ui<Y|T-mnQo__+$*-H');
-define('LOGGED_IN_KEY',    'e8mogLS<@sIm=}Cf`ex@?eOi,G<SSdRz+2c9d;WHl^ N_FPd6VFr0C@o:Sxs0`^7');
-define('NONCE_KEY',        '6U0X^(;OsW^<9VFg503.@(K-9r>`C<|ZXv$m>](ri/f-*IgnPv38pJmrUz1MudhY');
-define('AUTH_SALT',        'OQ~3VEo-2<$]S25IlL<MA}H{a<.pLD`TwXC?cCQEOFbmhuLF}-e`8RDqckRRYhRT');
-define('SECURE_AUTH_SALT', 'd|u*P4.YT5(X{9`9!;vlnxNF6;8Z3f@F+(`rv Ye8+|$/%X!60+MT[?g|@47wx p');
-define('LOGGED_IN_SALT',   'rB=J6O6&H8a9[,{kb_8=73-z&+~.~1|TBaHA+IUkAD`W1| ,L2zmt=YaR,KX6=Q8');
-define('NONCE_SALT',       'a1`ryA;G|0WUl[a)7cUyK@E_OV&+PdJl-4S-M?+;Nju!x#Ta^o-mf|Pm!ELn+,2g');
+define('AUTH_KEY',         '}<gPCivH1<&+~W/Y&:-Ez7Ut#qKhsy-Qw_@K=WOXy[Q2lv^cx-tIm5$BMeEa+Mv ');
+define('SECURE_AUTH_KEY',  'z`G9#g#66mmiiV)eDFi}Lvuw)zs+#Lr,d.oU?{dd(CARhwO^D 62q+&+i1heuOdd');
+define('LOGGED_IN_KEY',    'Dd$_f(.S4=2meFc, WUZ~Zoe-JPM&:S~ybDO:A-^{34z1hH84g;^M;KKV9y)nb@@');
+define('NONCE_KEY',        'Xn1~+-o<6(n(+^P[4u|:[ka:oe8Y1=Nk+?<]`N!|TFvB>z-Dp#Rmf {+@(@!y#<n');
+define('AUTH_SALT',        ';Yapq,URoe`Bj/?3;l@F,YcFfG-k%ew=,S]1CVDTj,TY6o77oYaFq>_tpF{rT+/H');
+define('SECURE_AUTH_SALT', '#qtHh@jJ%7A=Rw+J4p_6&qlO)+DE|%,dx9_QK42H=k8O]+4+{]~2h[y^>&9aUBF}');
+define('LOGGED_IN_SALT',   'Z[-nzjt+>4T,*Ug(n[ZlYlz_*UDBNV8AnyG1of|G[O.S!eR9IH-3KTM0Vdt*-5-|');
+define('NONCE_SALT',       '3)~gd*F(q/{h#LOa=89#Z}QHv16|Okhj +h|/pKK5i!2HYfU^rJ<,sF)=jNf5cUW');
 /**#@-*/
 
 /**
