@@ -1,3 +1,3 @@
-file '/srv/www/meec/current/wp-login.php' do
+file '/srv/www/cupomzera/current/wp-login.php' do
     action :delete
 end
