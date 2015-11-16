@@ -14,7 +14,7 @@
  * @package WordPress
  */
 
-define('WP_REDIS_HOST', 'meec.jpsdi1.0001.sae1.cache.amazonaws.com');
+define('WP_REDIS_HOST', 'cupomzera.jpsdi1.0001.sae1.cache.amazonaws.com');
  
 define('WP_HOME', 'http://www.cupomzera.com.br/');
 define('WP_SITEURL', 'http://www.cupomzera.com.br/');
