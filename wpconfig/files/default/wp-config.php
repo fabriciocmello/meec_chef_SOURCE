@@ -16,8 +16,8 @@
 
 define('WP_REDIS_HOST', 'cupomzera.jpsdi1.0001.sae1.cache.amazonaws.com');
  
-define('WP_HOME', 'http://www.cupomzera.com.br/');
-define('WP_SITEURL', 'http://www.cupomzera.com.br/');
+define('WP_HOME', 'cupomzera-1210369389.sa-east-1.elb.amazonaws.com');
+define('WP_SITEURL', 'cupomzera-1210369389.sa-east-1.elb.amazonaws.com');
 
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
