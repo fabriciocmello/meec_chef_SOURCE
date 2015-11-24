@@ -13,19 +13,19 @@
  *
  * @package WordPress
  */
-define('WP_REDIS_HOST', 'cupomzera.jpsdi1.0001.sae1.cache.amazonaws.com');
+define('WP_REDIS_HOST', 'xxx');
  
-define('WP_HOME', 'https://cupomzera-186113668.sa-east-1.elb.amazonaws.com/');
-define('WP_SITEURL', 'https://cupomzera-186113668.sa-east-1.elb.amazonaws.com/');
+define('WP_HOME', 'xxx');
+define('WP_SITEURL', 'xxx');
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define('DB_NAME', 'cupomzera');
+define('DB_NAME', 'xxx');
 /** MySQL database username */
-define('DB_USER', 'meec_db');
+define('DB_USER', 'xxx');
 /** MySQL database password */
-define('DB_PASSWORD', '9k6n5c0216');
+define('DB_PASSWORD', 'xxx');
 /** MySQL hostname */
-define('DB_HOST', 'meec.c7q4n3inuoam.sa-east-1.rds.amazonaws.com');
+define('DB_HOST', 'xxx');
 /** Database Charset to use in creating database tables. */
 define('DB_CHARSET', 'utf8');
 /** The Database Collate type. Don't change this if in doubt. */
